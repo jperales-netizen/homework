@@ -130,3 +130,6 @@ footer {
     }
 }
 
+.content-card p,
+.content-card li {
+  color: #203040;
